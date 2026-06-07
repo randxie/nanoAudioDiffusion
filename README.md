@@ -1,4 +1,4 @@
-# nanoAudioLLM
+# nanoAudioDiffusion
 
 Small LJSpeech text-to-speech research scaffold using frozen ByT5 text conditioning, a Transformer mel flow decoder, and BigVGAN-compatible log-mel spectrograms.
 
