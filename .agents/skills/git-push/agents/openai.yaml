@@ -1,0 +1,4 @@
+interface:
+  display_name: "Git Push"
+  short_description: "Review, commit, and push repository changes safely."
+  default_prompt: "Push my current code changes safely."
