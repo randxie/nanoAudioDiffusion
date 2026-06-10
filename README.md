@@ -90,3 +90,13 @@ Eval writes wavs and `wer.jsonl` under `<out_dir>/eval/step_*` and logs `eval/we
 ## Eval
 
 Use the project TTS research skill for the overfit-first workflow, monitoring, and full WER evaluation.
+
+## Examples
+
+121k-step checkpoint training curve and sample generations:
+
+![121k-step train loss and WER](examples/121k/train_loss_and_wer.png)
+
+- [Hi how are you](<examples/121k/Hi how are you.wav>)
+- [A small model can still learn to speak clearly](<examples/121k/A small model can still learn to speak clearly.wav>)
+- [The weather is beautiful today](<examples/121k/The weather is beautiful today.wav>)
